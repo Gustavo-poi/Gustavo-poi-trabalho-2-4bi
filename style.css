@@ -13,3 +13,10 @@ button {
     background-color: #D5DDE8;
     font-family: "Anton", serif;
 }
+
+.passo{
+display: none;
+}
+.passo.ativo{
+    display: block;
+}
